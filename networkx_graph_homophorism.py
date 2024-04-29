@@ -1,7 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
-H = nx.read_edgelist("graph_J.txt")
+H = nx.read_edgelist("graph_H.txt")
 G = nx.read_edgelist("graph_G.txt")
 
 
